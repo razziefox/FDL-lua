@@ -1,0 +1,9 @@
+{
+    "Lua.diagnostics.globals": [
+        "main",
+        "file"
+    ],
+    "Lua.diagnostics.disable": [
+        "param-type-mismatch"
+    ]
+}
